@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./IMG.png" alt="Mohammed Rizvin Banner" width="100%">
+</p>
 <h1 align="center">Hi, I'm Mohammed Rizvin 👋</h1>
 
 <h3 align="center">
