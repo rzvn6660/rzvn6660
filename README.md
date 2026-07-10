@@ -83,6 +83,7 @@ SQLite • PostgreSQL
 ### Tools
 Docker • Git • Linux • VS Code
 
+
 ## 📚 Currently Exploring
 
 - Multi-Agent AI Systems
@@ -100,3 +101,8 @@ https://linkedin.com/in/mohammed-rizvin-mk
 
 🌐 **Portfolio:**  
 https://rizvin-portfolio.vercel.app/
+
+
+---
+
+> **Building AI systems that transform ideas into practical solutions through LLMs, Voice AI, OCR, and intelligent automation.**
