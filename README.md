@@ -1,104 +1,23 @@
-# Mohammed Rizvin
+<h1 align="center">Hi, I'm Mohammed Rizvin 👋</h1>
 
-### AI Engineer | LLMs • AI Agents • NLP • Voice AI • OCR • Healthcare AI
+<h3 align="center">
+AI Engineer • LLMs • AI Agents • Voice AI • NLP • Computer Vision
+</h3>
 
-I build practical AI applications that combine Large Language Models, Speech AI, Computer Vision, and Backend Engineering to solve real-world problems.
+<p align="center">
+Building production-focused AI applications using Large Language Models, Voice AI, OCR, and Backend Engineering.
+</p>
 
-Currently focused on developing production-ready AI systems with FastAPI, Python, Docker, and modern AI frameworks.
-
----
-
-## About Me
-
-- AI Engineer passionate about solving real-world problems with AI.
-- Interested in LLM Applications, AI Agents, Speech AI, Healthcare AI, and Multilingual AI.
-- Building end-to-end AI applications from backend APIs to intelligent user experiences.
-- Always learning and improving software engineering best practices.
+<p align="center">
+Open to AI Engineer • Applied AI Engineer • Generative AI Engineer opportunities
+</p>
 
 ---
 
-## Current Focus
+## 👨‍💻 About Me
 
-- Building production-ready AI applications
-- Large Language Models (LLMs)
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-- Voice AI
-- Speech Recognition
-- OCR
-- Healthcare AI
-- FastAPI & Docker
+I'm an entry-level AI Engineer passionate about building practical AI systems using Large Language Models, Voice AI, OCR, NLP, and Backend Engineering.
 
----
+My projects focus on solving real-world challenges in healthcare, multilingual communication, and intelligent automation.
 
-## Featured Projects
-
-### ORMA AI
-Voice-first AI assistant for elderly care featuring multilingual conversations, medicine reminders, memory assistance, and caregiver support.
-
-### Medi-fy
-AI-powered medicine label intelligence platform using OCR and LLMs to extract and explain medicine information.
-
-### Multilingual AI
-Speech AI platform designed for multilingual communication and low-resource languages.
-
-### Personal Portfolio
-Modern portfolio showcasing AI engineering projects, technical skills, and professional work.
-
----
-
-## Tech Stack
-
-**Languages**
-
-Python • JavaScript • SQL
-
-**AI & Machine Learning**
-
-PyTorch • TensorFlow • Transformers • LangChain • Hugging Face • Scikit-learn
-
-**Speech AI**
-
-Whisper • Coqui TTS
-
-**Computer Vision**
-
-OpenCV • EasyOCR
-
-**Backend**
-
-FastAPI • REST APIs
-
-**Database**
-
-SQLite • PostgreSQL
-
-**Tools**
-
-Docker • Git • GitHub • Linux • VS Code
-
----
-
-## 2026 Goals
-
-- Build production-ready AI systems
-- Contribute to open-source AI projects
-- Master AI Agents and advanced LLM workflows
-- Build scalable Speech AI systems
-- Join an innovative AI engineering team
-
----
-
-## Let's Connect
-
-📧 Email: rizvinmk@gmail.com
-
-💼 LinkedIn:
-https://linkedin.com/in/mohammed-rizvin-mk
-
-🌐 Portfolio:
-(Add your portfolio URL)
-
----
-
-> Building AI systems that solve practical problems through LLMs, Speech AI, OCR, and intelligent automation.
+I enjoy designing complete AI applications—from model integration and APIs to user-facing experiences—with an emphasis on clean architecture and scalability.
